@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ImmoApp</string>
+    <!-- Le texte des topBar de chaque screen -->
+    <string name="activity_topBar_text">Mes Activités</string>
+    <string name="account_topBar_text">Compte</string>
+    <string name="favorite_button_content_description">Ajouter/Supprimer des favoris</string>
+    <string name="delete_button_content_description">supprimer les annonces</string>
+    <string name="create_alert_topBar">Créer une alerte</string>
+    <string name="modify_alert_topBar">Modifier une alerte</string>
+    <string name="services_topBar">Gestion des biens immobiliers</string>
+    <string name="annonces_topBar">Alerte n%s</string>
+
+
+
+
+
+
+
+</resources>
